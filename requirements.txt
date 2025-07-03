@@ -8,3 +8,4 @@ Pillow
 google-generativeai
 dataclasses; python_version<'3.7'
 langchain-groq
+gunicorn
