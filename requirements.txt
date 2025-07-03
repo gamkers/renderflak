@@ -1,4 +1,10 @@
-flask
+Flask
 flask-cors
-gunicorn
-requests
+pandas
+langchain
+dotenv
+openpyxl
+Pillow
+google-generativeai
+dataclasses; python_version<'3.7'
+langchain-groq
