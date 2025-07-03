@@ -5,7 +5,7 @@ langchain
 dotenv
 openpyxl
 Pillow
-google-generativeai
+google-genai
 dataclasses; python_version<'3.7'
 langchain-groq
 gunicorn
